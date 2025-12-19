@@ -2,9 +2,11 @@
 date = '2025-09-18T15:32:15-04:00'
 draft = false
 title = 'art portfolio'
+
+url = '/posts/artportfolio'
 +++
 
-
+TEST
 
 Here is some digital art projects I've done. Most of my work consists of character art, either from original stories or fanart.
 
@@ -72,5 +74,5 @@ Looking back I am proud of a few aspects that I think represent the character qu
 
 *Editor's Note:*
 
-*I do a lot of art on my phone, so I'll likely upload works from there in the future. Everything shown so far has been done with a drawing tablet on my computer.* 
+*I do a lot of art on my phone, so I'll likely upload works from there in the future. Everything shown so far has been done with a drawing tablet on my computer.*
 

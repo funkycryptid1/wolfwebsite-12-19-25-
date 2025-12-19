@@ -8,5 +8,5 @@ Here are various blog posts ranging from computer science and art topics to rand
 
 
 
-<span>Blog 1<a href="(posts/blog1)"></a></span>
+\[Blog 1]({{< relref "blog1.md" >}}) 
 

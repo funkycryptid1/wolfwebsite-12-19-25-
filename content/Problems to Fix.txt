@@ -1,0 +1,11 @@
+Problems to Fix
+
+Lower number, higher priority -
+
+1) Find out where the webpages are being sources from in the wolfwebsite git
+
+2) Fix format of the website to look like terminal
+
+3) Fix blog links
+
+4) Two index links show up on the main page
